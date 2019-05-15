@@ -1,0 +1,6 @@
+*.png
+*.pdf
+*.csv
+titanic
+decision_tree_1
+.ipynb_checkpoints/
