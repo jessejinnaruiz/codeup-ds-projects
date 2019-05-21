@@ -7,6 +7,11 @@
 <a href='https://drive.google.com/file/d/1L1AIJ5lFWyizCdSQmPsQakKSKZjW6HIf/view?usp=sharing'>Github repo files 2</a>
 <a href='https://drive.google.com/file/d/1SsQUFi-bKbyvyo8wPja12xkhMp5n6TyA/view?usp=sharing'>Github repo files 3</a>
 
+
+<a href='https://github.com/jessejinnaruiz/codeup-ds-projects/blob/master/jesse_nlp_nb.ipynb'>Time Series Analysis Project</a> uses Autoregression model, AutoRegressive Integrated Moving Average (ARIMA) model, Moving Average model, and  Seasonal Autoregressive Integrated Moving Average (SARIMA) model to predict a user's  information based off of a limited set of health metrics from a Fitbit. Can we deduce health information from Fitbit data alone, e.g. height, weight, and sex? Data used can be found here: 
+<a href='https://drive.google.com/file/d/1ogqNLhgCRf7WHgwgcFucFvBqnyQbP4jA/view?usp=sharing'>Fitbit messy data (tar.gz)</a>
+
+
 <a href='https://github.com/jessejinnaruiz/codeup-ds-projects/blob/master/Classification_Proj_JesseRuiz.ipynb'>Classification Project</a> uses classification algorithms like Logistic Regression, K-Nearest Neighbors, Decision Trees and Random Forests to predict churn of customers. Data used can be found at the Kaggle competition: <a href='https://www.kaggle.com/vhcg77/telcom-churns-dataset'>here</a>
 
 <a href='https://github.com/jessejinnaruiz/codeup-ds-projects/blob/master/Regression_Proj_JesseRuiz.ipynb'>Regression Project</a> uses linear regression algorithms to predict error of the Zillow Zestimate score, which is used to estimate home valuation. Original Kaggle competition and data can be found: <a href='https://www.kaggle.com/c/zillow-prize-1'>here</a>
