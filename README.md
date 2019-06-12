@@ -16,5 +16,7 @@
 
 <a href='https://github.com/jessejinnaruiz/codeup-ds-projects/blob/master/Regression_Proj_JesseRuiz.ipynb'>Regression Project</a> uses linear regression algorithms to predict error of the Zillow Zestimate score, which is used to estimate home valuation. Original Kaggle competition and data can be found: <a href='https://www.kaggle.com/c/zillow-prize-1'>here</a>
 
-
+<a href='https://github.com/codeup-capstone-one/domestic-violence'>Codeup Capstone Project</a>
+<h4>Predicting Recidivism in Domestic Violence</h4>
+<p>Using data from a study on domestic violence cases in Chicago (Block, C. R., 1995), analyzed reported cases to predict the key indicators of recidivism (re-assault) and created webapp with personalized resources for victims of domestic violence.</p>
 
