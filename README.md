@@ -1,5 +1,5 @@
 # codeup-ds-projects
-### This repository contains projects created at Codeup in 2019. 
+### This repository contains data science projects created at Codeup in 2019. 
 <p><a href="https://github.com/codeup-capstone-one/domestic-violence">Codeup Capstone Project</a> <br /> <a href="https://ddfloww.com/domestic-violence"><em>Predicting Recidivism in Domestic Violence</em></a></p>
 <p>Using data from a study on domestic violence cases in Chicago <a href="https://www.icpsr.umich.edu/icpsrweb/NACJD/studies/3002">(Block, C. R., 1995)</a>, analyzed reported cases to predict the key indicators of recidivism (re-assault) and created webapp with personalized resources for victims of domestic violence.</p>
 
