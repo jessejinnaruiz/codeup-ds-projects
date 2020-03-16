@@ -8,6 +8,7 @@
 <li> <a href='https://drive.google.com/file/d/1L1AIJ5lFWyizCdSQmPsQakKSKZjW6HIf/view?usp=sharing'>Github repo files 2</a> </li>
 <li> <a href='https://drive.google.com/file/d/1SsQUFi-bKbyvyo8wPja12xkhMp5n6TyA/view?usp=sharing'>Github repo files 3</a> </li>
 
+<br>
 
 <a href='https://github.com/jessejinnaruiz/codeup-ds-projects/blob/master/jesse_fitbit.ipynb'>Time Series Analysis Project</a> uses Autoregression model, AutoRegressive Integrated Moving Average (ARIMA) model, Moving Average model, and  Seasonal Autoregressive Integrated Moving Average (SARIMA) model to predict a user's  information based off of a limited set of health metrics from a Fitbit. Can we deduce health information from Fitbit data alone, e.g. height, weight, and sex? Data used can be found here: 
 <a href='https://drive.google.com/file/d/1ogqNLhgCRf7WHgwgcFucFvBqnyQbP4jA/view?usp=sharing'>Fitbit messy data (tar.gz)</a>
